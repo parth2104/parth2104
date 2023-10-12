@@ -25,6 +25,9 @@ I'm on a continuous learning journey, and my future goals include diving into ad
 - Natural Language Processing (NLP)
 
 I'm excited to contribute to the world of data-driven technologies and explore the limitless possibilities.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![scopet (1)](https://github.com/parth2104/parth2104/assets/86651473/7bf582f2-6b7c-4594-8ccd-0b8c06629dd7)
 
 ## 📈 Projects
 
@@ -36,10 +39,16 @@ Here are some areas I've worked on:
 - 📊 **Visualization:** (If you've created data visualizations, include them)
 
 Feel free to check out my projects and contributions on my GitHub repository!
-
+--------------------------------------------------------------------------------------------------
 ## 📫 Get in Touch
 
-If you'd like to collaborate, discuss a project, or just say hi, you can reach out to me at [your@email.com](mailto:your@email.com). 📧
+If you'd like to collaborate, discuss a project, or just say hi, you can reach out to me at 
+- **[LINKEDIN](https://www.linkedin.com/in/parth-barot-600229148/)**
+- **[EMAIL](parth00221@gmail.com)**
+
+
+![Data-Science (1)](https://github.com/parth2104/parth2104/assets/86651473/2dcffce1-a8cc-4801-921c-395b7c5b5113)
 
 Let's explore the data-driven world together! 🚀
+
 
