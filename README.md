@@ -33,10 +33,10 @@ I'm excited to contribute to the world of data-driven technologies and explore t
 
 Here are some areas I've worked on:
 
-- 🤖 **Machine Learning Projects:** (Link to your ML projects or a brief description)
-- 📊 **Data Analysis:** (Highlight any data analysis work you've done)
-- 💽 **SQL Databases:** (Mention any database projects or work)
-- 📊 **Visualization:** (If you've created data visualizations, include them)
+- 🤖 **Machine Learning Projects:** 
+- 📊 **Data Analysis:** 
+- 💽 **SQL Databases:** 
+- 📊 **Visualization:** 
 
 Feel free to check out my projects and contributions on my GitHub repository!
 --------------------------------------------------------------------------------------------------
