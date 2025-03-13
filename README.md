@@ -8,8 +8,8 @@
 ## 🔧 Skills and Expertise
 
 - **Programming Languages:** Python
-- **Data Science Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Plotly
-- **Databases:** SQL, Power BI, Excel
+- **Data Science Libraries:** NumPy, Pandas, Matplotlib, Seaborn, Plotly,scikit-learn
+- **Databases:** SQL, Power BI
 - **Machine Learning:** Currently working on various ML models
 - **Statistics:** Proficient in statistical analysis
 - **Data Analysis:** Well-versed in data analysis techniques
