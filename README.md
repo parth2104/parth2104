@@ -21,7 +21,7 @@ I'm on a continuous learning journey, and my future goals include diving into ad
 - Big Data
 - Deep Learning
 - Artificial Intelligence (AI)
-- Computer Vision (CV)
+- Generative AI
 - Natural Language Processing (NLP)
 
 I'm excited to contribute to the world of data-driven technologies and explore the limitless possibilities.
